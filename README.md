@@ -1,8 +1,4 @@
-# Machine Learning Engineer Nanodegree
-
-# Deep Learning
-
-## Project 2: Plaigarism Detector using AWS SageMaker
+# Plaigarism Detector using AWS SageMaker
 
 ### By Vedavyas Kamath
 
